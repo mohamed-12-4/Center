@@ -1,5 +1,5 @@
 tasks:
   - init: |
-      source ./Python/env/bin/activate
+      cd ./app1
     command: |
       echo 'TODO: start app'
